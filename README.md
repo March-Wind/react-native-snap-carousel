@@ -11,6 +11,10 @@
 -----
 -----
 
+在原库上增加了onAnimate参数，以供外部根据位移来定制动画
+
+
+
 ## ✨ Some great news for you, fellow plugin user!
 
 ### 💡 **[Head over there now](https://github.com/archriss/react-native-snap-carousel/blob/master/doc/VERSION_4.md)** to learn more about all the goodness that's coming your way.
